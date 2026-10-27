@@ -1,4 +1,4 @@
-# Windows First Aid
+# `Windows First Aid`
 
 Ein Erste-Hilfe-Kasten für Windows: ein Fenster mit Knöpfen, hinter denen die wichtigsten Reparatur-, Prüf- und Wartungsmittel von Windows stecken. Statt Befehle in der Eingabeaufforderung zu tippen, klickt man den passenden Knopf. Jeder Knopf hat eine Erklärung beim Draufzeigen, dazu gibt es ein eigenes Hilfe-Fenster.
 
@@ -26,7 +26,7 @@ Kostenlos (Freeware) von Käse_Hobel.
 
 **Windows neu installieren:** Media Creation Tool für Windows 11 und Windows 10
 
-Windows First Aid ruft nur Werkzeuge auf, die in Windows bereits enthalten sind. Es wird nichts nachinstalliert und nichts verändert, was nicht auch von Hand über die Eingabeaufforderung möglich wäre. Für viele Werkzeuge fragt Windows nach Administratorrechten; ohne Zustimmung passiert nichts.
+`Windows First Aid` ruft nur Werkzeuge auf, die in Windows bereits enthalten sind. Es wird nichts nachinstalliert und nichts verändert, was nicht auch von Hand über die Eingabeaufforderung möglich wäre. Für viele Werkzeuge fragt Windows nach Administratorrechten; ohne Zustimmung passiert nichts.
 
 ## Voraussetzungen
 
@@ -42,6 +42,6 @@ Zu jedem Download gehören eine Prüfsumme (`.sha256`) und eine Unterschrift (`.
 
 Es gelten die [Nutzungsbedingungen](Nutzungsbedingungen.txt). Kurz: kostenlos nutzbar, Weitergabe nur unverändert und vollständig, nicht gegen Entgelt. Der Quellcode wird nicht veröffentlicht.
 
-Windows und Microsoft sind Marken der Microsoft Corporation. Windows First Aid ist ein privates Projekt ohne Verbindung zu Microsoft.
+Windows und Microsoft sind Marken der Microsoft Corporation. `Windows First Aid` ist ein privates Projekt ohne Verbindung zu Microsoft.
 
 Bei der Entwicklung wurde KI-Unterstützung eingesetzt.
