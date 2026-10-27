@@ -1,0 +1,81 @@
+﻿NUTZUNGSBEDINGUNGEN
+
+Windows First Aid
+Copyright (c) 2026 Kaese_Hobel - alle Rechte vorbehalten.
+
+
+1. KOSTENLOSE NUTZUNG
+
+Windows First Aid darf kostenlos genutzt werden, privat und im
+Betrieb. Es fallen keine Gebühren an und es ist keine Registrierung
+nötig.
+
+
+2. WEITERGABE
+
+Die Weitergabe an andere ist erlaubt, solange das Programm
+unverändert und vollständig weitergegeben wird - zusammen mit
+diesem Text. Der Verkauf des Programms oder die Weitergabe gegen
+Entgelt, auch als Teil einer Sammlung, ist nicht gestattet.
+
+
+3. KEINE VERÄNDERUNG
+
+Das Programm darf nicht verändert, zurückentwickelt (dekompiliert
+oder disassembliert) oder in andere Programme eingebaut werden,
+soweit das Gesetz nichts anderes zwingend erlaubt.
+
+
+4. WAS DAS PROGRAMM TUT
+
+Windows First Aid ruft Wartungswerkzeuge auf, die in Windows bereits
+enthalten sind. Es wird nichts nachinstalliert und nichts verändert,
+was nicht auch von Hand über die Eingabeaufforderung möglich wäre.
+
+Eine Ausnahme ist der Punkt "TEMP-Dateien löschen". Dort löscht das
+Programm den Inhalt des TEMP-Ordners selbst, statt dafür ein
+Windows-Werkzeug aufzurufen. Es fragt vorher nach und löscht erst
+nach ausdrücklicher Bestätigung. Dateien, die gerade benutzt
+werden, bleiben stehen. Andere Ordner werden nicht angerührt.
+
+Für viele dieser Werkzeuge fragt Windows nach Administratorrechten.
+Ohne Zustimmung passiert nichts.
+
+
+5. KEINE GEWÄHR, KEINE HAFTUNG
+
+Das Programm wird ohne jede Gewähr zur Verfügung gestellt. Es wird
+nicht zugesichert, dass es fehlerfrei arbeitet oder für einen
+bestimmten Zweck geeignet ist.
+
+Die Nutzung erfolgt auf eigene Verantwortung. Soweit gesetzlich
+zulässig, wird jede Haftung für Schäden ausgeschlossen, die aus
+der Nutzung oder der Unmöglichkeit der Nutzung entstehen -
+insbesondere für Datenverlust, Betriebsunterbrechung und
+Folgeschäden. Für Vorsatz und grobe Fahrlässigkeit sowie in
+Fällen zwingender gesetzlicher Haftung bleibt die Haftung
+unberührt.
+
+Sichern Sie Ihre wichtigen Daten, bevor Sie Wartungswerkzeuge
+ausführen.
+
+
+6. HINWEIS ZUR ENTWICKLUNG
+
+Bei der Entwicklung dieses Programms wurde KI-Unterstützung
+eingesetzt. Der Quellcode wurde durch den Entwickler geprüft,
+angepasst und für dieses Projekt zusammengestellt.
+
+
+7. MARKEN
+
+Windows und Microsoft sind eingetragene Marken der Microsoft
+Corporation. Windows First Aid ist ein privates Projekt und steht in
+keiner Verbindung zur Microsoft Corporation und wird von dieser
+weder herausgegeben noch unterstützt oder geprüft.
+
+
+8. SCHLUSSBESTIMMUNG
+
+Sollte eine Bestimmung dieser Nutzungsbedingungen unwirksam sein,
+bleiben die übrigen Bestimmungen davon unberührt.
