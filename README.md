@@ -24,15 +24,19 @@ Kostenlos (Freeware) von Käse_Hobel.
 
 **Windows verwalten:** Geräte-Manager, Ereignisanzeige, Windows Update öffnen, Programme aktualisieren
 
+**Abschalten – auf eigenes Risiko:** Prefetch, Suchindex (Windows Search) und Telemetrie (DiagTrack) je ab- und wieder einschalten. „Ein“ stellt die Grundeinstellung von Windows wieder her.
+
 **Windows neu installieren:** Media Creation Tool für Windows 11 und Windows 10
 
 `Windows First Aid` ruft nur Werkzeuge auf, die in Windows bereits enthalten sind. Es wird nichts nachinstalliert und nichts verändert, was nicht auch von Hand über die Eingabeaufforderung möglich wäre. Für viele Werkzeuge fragt Windows nach Administratorrechten; ohne Zustimmung passiert nichts.
+
+Die Oberfläche richtet sich nach Windows: hell oder dunkel, Akzentfarbe und Textgrösse.
 
 ## Voraussetzungen
 
 - Windows 10 oder Windows 11 (64 Bit)
 
-Das Programm ist nicht digital signiert. Beim ersten Start kann sich deshalb der Windows-Schutz SmartScreen oder ein Virenscanner melden. Das ist ein Fehlalarm.
+Das Setup ist mit dem eigenen Zertifikat von Käse_Hobel signiert, nicht mit einem Zertifikat, das Windows kennt. Beim ersten Start kann sich deshalb der Windows-Schutz SmartScreen oder ein Virenscanner melden. Das ist ein Fehlalarm.
 
 ## Echtheit prüfen
 
